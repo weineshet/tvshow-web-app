@@ -1,9 +1,9 @@
 {
   "name": "tvshow-web-app",
-  "version": "1.0.0",
+  "version": "8.2.1",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "ng serve --port 7000",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
